@@ -12,6 +12,7 @@ Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/
 MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1733219680183/work
 mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1733302684489/work
 networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1698504735452/work
+ninja==1.13.0
 numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1732314280888/work/dist/numpy-2.0.2-cp39-cp39-linux_x86_64.whl#sha256=62d98eb3da9f13e6b227c430d01026b7427f341b3fdcb838430f2a9e520417b1
 Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1675487166627/work
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
